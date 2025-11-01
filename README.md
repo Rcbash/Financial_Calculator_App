@@ -8,7 +8,7 @@ A native Android app for personal finance. Includes an EMI calculator and a pers
 | :---: | :---: |
 | ![EMI Calculator Screen](screenshots/emi-calculator.jpg) | ![Expense Tracker Screen](screenshots/expense-tracker.jpg) |
 
-_Note: You will need to upload your screenshots to your GitHub repository for the images to show up. (Instructions below)_
+
 
 ---
 
