@@ -1,6 +1,6 @@
 # Financial Management App 📱
 
-A native Android application built with Java, designed to help users manage their finances. This app features an EMI calculator and a persistent expense tracker.
+A native Android app for financial calculations and expense tracking, built with Java, Room DB, and Material Design.
 
 ## 📸 Screenshots
 
