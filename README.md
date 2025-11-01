@@ -1,6 +1,6 @@
 # Financial Management App 📱
 
-A native Android app for financial calculations and expense tracking, built with Java, Room DB, and Material Design.
+A native Android app for personal finance. Includes an EMI calculator and a persistent expense tracker built with Java, Room, RecyclerView, and Material 3.
 
 ## 📸 Screenshots
 
